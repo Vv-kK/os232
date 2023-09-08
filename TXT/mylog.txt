@@ -10,5 +10,8 @@ ZCZC W00 135 L15 Assignment #05
 ZCZC W00 5 L16 Assignment #06
 ZCZC W00 200 L02 CLASSROOM related
 ZCZC W00 45 L05 Quiz related including studying
-ZCZC W00 100 L02 CLASSROOM related
-ZCZC W00 120 L11 Assignment #01
+ZCZC W01 200 L02 CLASSROOM related
+ZCZC W01 160 L11 Assignment #01
+ZCZC W01 85 L12 Assignment #02
+ZCZC W01 10 L01 SCELE related
+ZCZC W01 100 L13 Assignment #03
