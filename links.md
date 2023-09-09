@@ -2,6 +2,9 @@
 permalink: LINKS/
 ---
 
+# LINKS
+
+## Week 01
 1. [One](https://www.hostinger.com/tutorials/linux-commands)<br>
    This is a website explaining basic linux commands
    This website helped me in better understanding what the commands do.
