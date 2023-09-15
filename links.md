@@ -20,4 +20,15 @@ permalink: LINKS/
 
 4. [Four](https://www.baeldung.com/linux/grep-sed-awk-differences)<br>
    This is a website explaining the differences about grep, sed, and awk.
-   This is helpful to make a connection between the commands so that I can understand it better. 
+   This is helpful to make a connection between the commands so that I can understand it better.
+
+## Week 02
+1. [One](https://youtu.be/dTp0c41XnrQ?si=hFWRpMNlxqD-x0Ok)<br>
+    This is a video explaining basic syntax for C language. 
+    This video is short unlike other tutorials, but it is packed with informations.
+
+2. [Two](https://youtu.be/5JvLV2-ngCI?si=V-hElG0gMCT67pnU)<br>
+    This is a video explaining about ssh. The explanation is very clear and easy to understand.
+
+3. [Three](https://youtu.be/e-fIQME9f64?si=VQozpY6lrDXfv1EJ)<br>
+    This is a brief video about malware. The explanation quite detailed and easy to understand.
