@@ -32,3 +32,16 @@ permalink: LINKS/
 
 3. [Three](https://youtu.be/e-fIQME9f64?si=VQozpY6lrDXfv1EJ)<br>
     This is a brief video about malware. The explanation quite detailed and easy to understand.
+
+## Week 03
+1. [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=j0WARFim-NpIJFur)<br>
+    A brief explanation about linux directories. Despite the duration, the explanation is very easy to understand and insightful.
+
+2. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM?si=se2FilJB2q6HmLQ2)<br>
+    This video has great visuals that makes understanding the concept easier and the way they explain it is enjoyable.
+
+3. [Menguji Keaslian Sebuah File Menggunakan SHA256SUM](https://www.linuxsec.org/2019/10/sha256sum.html)<br>
+    I think it's important to understand SHA256SUM because we will be using it for the rest of OS course (especially after I got checksum error). This article is brief but it gives me enough information so, I (hopefully) won't get another checksum error.
+
+4. [Working with tarballs on Linux](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br>
+    This article helped me understand what is tarball and I think that's important because we will be using this for the rest of the semester. 
