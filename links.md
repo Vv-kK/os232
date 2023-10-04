@@ -45,3 +45,16 @@ permalink: LINKS/
 
 4. [Working with tarballs on Linux](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br>
     This article helped me understand what is tarball and I think that's important because we will be using this for the rest of the semester. 
+
+## Week 04
+1. [Memory Management](https://www.javatpoint.com/memory-management-operating-system)<br>
+    This article explained memory management in a way that is easy to understand. 
+
+2. [Pointers in C](https://linuxhint.com/use-pointers-c/)<br>
+    The article provides a comprehensive explanation of pointers in the C programming language, emphasizing their significance in memory allocation, the ability to change addresses dynamically, and practical examples of pointer usage.
+
+3. [Logical vs Physical Address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address)<br>
+    The article explains the distinction between logical and physical addresses in an operating system. It also covers the three ways of address binding and the role of the MMU in runtime mapping between virtual and physical addresses.
+
+4. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+    The article explains about advantages and disadvantages in using virtual memory. This article also explains swapping, thrashing, and paging.
