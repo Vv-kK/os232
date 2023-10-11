@@ -63,7 +63,7 @@ permalink: LINKS/
 1. [How Much RAM Do You Need For Your Computer Memory?](https://www.crucial.com/articles/about-memory/how-much-ram-does-my-computer-need)<br>
     This article explains about why my computer needs a lot of RAM to operate properly. Other than that, it also helped me understand why my VM panicked when I reduced the base memory in POP Quiz 3 and assignment 4. 
 
-2. [Paging in Operating Systems with Example & Working - Memory Management] (https://youtu.be/pJ6qrCB8pDw?si=KgG21lrau7hJKQkf)<br>
+2. [Paging in Operating Systems with Example & Working - Memory Management](https://youtu.be/pJ6qrCB8pDw?si=KgG21lrau7hJKQkf)<br>
     This video explains about the basics of paging in a way that is easy to understand. I like that it is completed with examples.
 
 3. [FIFO vs Optimal vs LRU Page Replacement Algorithms Comparison with Example | Operating Systems](https://youtu.be/u5obgqo4rZ8?si=xlPCFmx9HPX1Prv7)<br>
