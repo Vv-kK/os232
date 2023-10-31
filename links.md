@@ -68,3 +68,13 @@ permalink: LINKS/
 
 3. [FIFO vs Optimal vs LRU Page Replacement Algorithms Comparison with Example | Operating Systems](https://youtu.be/u5obgqo4rZ8?si=xlPCFmx9HPX1Prv7)<br>
     This video explains about the comparison of three algorithms in paging. The video is packed with useful information even thought its short duration. 
+
+## Week 06
+1. [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)<br>
+    The article provides a detailed explanation of the fork system call in operating systems, emphasizing its role in creating new processes, process duplication, and the associated advantages and disadvantages. It covers essential concepts such as process IDs, copy-on-write, and explores the impact of the fork system call on system performance and resource management.
+
+2. [Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency)<br>
+    The article discusses the principles, problems, advantages, and drawbacks of concurrency in operating systems. It is detailed and easy to understand.
+
+3. [Process vs Thread – Difference Between Them](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+    The article explains the key differences between processes and threads in operating systems. The article also introduces the concept of multithreading, referring to the simultaneous execution of multiple threads within an operating system.
