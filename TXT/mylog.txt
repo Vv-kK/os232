@@ -48,8 +48,10 @@ ZCZC W05 95 L14 Assignment #04
 ZCZC W05 145 L15 Assignment #05
 ZCZC W05 70 L05 POP QUIZ related
 ZCZC W05 100 L02 CLASSROOM related
-ZCZC W06 100 L02 CLASSROOM related
-ZCZC W06 70 L11 Assignment #01
+ZCZC W06 200 L02 CLASSROOM related
+ZCZC W06 85 L11 Assignment #01
 ZCZC W06 20 L12 Assignment #02
 ZCZC W06 45 L13 Assignment #03
-ZCZC W06 85 L14 Assignment #04
+ZCZC W06 105 L14 Assignment #04
+ZCZC W06 50 L05 POP QUIZ related
+ZCZC W06 70 L05 Quiz related including studying
