@@ -78,3 +78,13 @@ permalink: LINKS/
 
 3. [Process vs Thread – Difference Between Them](https://www.guru99.com/difference-between-process-and-thread.html)<br>
     The article explains the key differences between processes and threads in operating systems. The article also introduces the concept of multithreading, referring to the simultaneous execution of multiple threads within an operating system.
+
+## Week 07
+1. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+    This article explains semaphores in an easy way to understand. It really helped me to better understand the topics explained in class.
+
+2. [What are pthreads in C/C++?](https://www.educative.io/answers/what-are-pthreads-in-c-cpp)<br>
+    This article provides an overview of pthreads (POSIX threads), which are a thread API implementation for C/C++.
+
+3. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+    It covers the basics of fork(), provides examples of its implementation in C, discusses the output predictions for various code snippets involving fork(), and touches on the differences between fork() and exec() system calls.
