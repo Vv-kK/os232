@@ -61,3 +61,11 @@ ZCZC W07 15 L12 Assignment #02
 ZCZC W07 60 L13 Assignment #03
 ZCZC W07 85 L14 Assignment #04
 ZCZC W07 105 L05 Quiz related
+ZCZC W08 200 L02 CLASSROOM related
+ZCZC W08 30 L11 Assignment #01
+ZCZC W08 15 L12 Assignment #02
+ZCZC W08 75 L31 VirtualBox: fixing partition size
+ZCZC W08 155 L13 Assignment #03
+ZCZC W08 60 L14 Assignment #04
+ZCZC W08 40 L05 Quiz related including studying
+ZCZC W08 50 L05 POP QUIZ

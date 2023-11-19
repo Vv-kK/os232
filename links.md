@@ -88,3 +88,22 @@ permalink: LINKS/
 
 3. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
     It covers the basics of fork(), provides examples of its implementation in C, discusses the output predictions for various code snippets involving fork(), and touches on the differences between fork() and exec() system calls.
+
+## Week 08
+1. [First Come First Serve (FCFS) CPU Scheduling Algorithm - Operating Systems](https://youtu.be/AiVKIdGheEU?si=6nPdoj3CrEq4dY_i)<br>
+    This video explains about the FCFS scheduling algorithm. The explanation is easy to understand.
+
+2. [Shortest Job First (SJF) - Non Pre Emptive CPU Scheduling Algorithm - Operating Systems](https://youtu.be/jkA6FGCFpuo?si=TYCODpuhFKZr23fM)<br>
+    The video is an explanation of SJF scheduling algorithm. The explanation is compact and complete.
+
+3. [Shortest Remaining Time (SRT) CPU Scheduling Algorithm - Operating Systems](https://youtu.be/Nr4nANJjddg?si=asruuTdhbdzA1cCv)<br>
+    This video covers another method of CPU scheduling, that is SRT. The explanation is short but all the important parts are well explained.
+
+4. [Round Robin (RR) CPU Scheduling Algorithm - Operating Systems](https://youtu.be/9hw-_qJ55K4?si=sqFqC_bxAMZhjWgg)<br>
+    The video explains about the RR scheduling which is one of the many methods in CPU scheduling. The explanation is easy to understand and interesting to watch.
+
+5. [Priority Based CPU Scheduling Algorithm - Operating Systems](https://youtu.be/gQMMVzVsYEs?si=UIC5lp4Vu4Fk5-gg)<br>
+    The video is easy to understand. The video is also short but contains all the necessary materials.
+
+6. [Multilevel Queue Scheduling Algorithm with Example | CPU Scheduling Algorithms in Operating Systems](https://youtu.be/JDsrcoLKKhg?si=e3c12p3ePq3m2dLp)<br>
+    This video is quite long but it is helpful in understanding the concept. 
